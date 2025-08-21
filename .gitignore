@@ -30,6 +30,6 @@ __pycache__/
 .qodo/
 
 # Other images
-B2-1 (1).jpeg
-B2-1.jpeg
+!B2-1 (1).jpeg
+!B2-1.jpeg
 B2-1.txt

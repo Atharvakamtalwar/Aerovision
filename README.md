@@ -50,9 +50,8 @@ Here are some sample detection results from the model:
 
 | Image |
 | :---: |
-| ![Detection example 1](annotated_samples/005e486c03142ce64736bba86b347b96.jpg) |
-| ![Detection example 2](annotated_samples/023cc897edc78f676fd1f2f347d80e83.jpg) |
-| ![Detection example 3](annotated_samples/02d408885ea1339fac6e2344086599ab.jpg) |
+| ![B2 Spirit 1](B2-1.jpeg) |
+| ![B2 Spirit 2](B2-1 (1).jpeg) |
 
 ## Project Structure
 ```
